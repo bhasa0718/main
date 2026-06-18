@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "6a3417c5d0c1cce8baabc11b"
+  },
+  "id": 1001,
+  "userId": 1,
+  "restaurantId": 1,
+  "status": "DELIVERED",
+  "totalAmount": 698,
+  "deliveryAddress": "123 Main Street, Hyderabad"
+},
+{
+  "_id": {
+    "$oid": "6a3417c5d0c1cce8baabc11c"
+  },
+  "id": 1002,
+  "userId": 2,
+  "restaurantId": 2,
+  "status": "PENDING",
+  "totalAmount": 498,
+  "deliveryAddress": "456 Park Avenue, Warangal"
+}]
